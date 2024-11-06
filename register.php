@@ -11,5 +11,7 @@
             Repeat: <input type="password" name="repeat"><br>
             <input type="submit">
         </form>
+        <hr>
+        <a href="index.php">Main Menu</a>
     </body>
 </html>
